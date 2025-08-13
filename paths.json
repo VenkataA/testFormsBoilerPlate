@@ -1,9 +1,9 @@
 {
   "mappings": [
-    "/:/"
+    "/content/test_forms_boilerplate/:/"
   ],
   "includes": [
-    "/content/",
-    "/content/dam/"
+    "/content/test_forms_boilerplate/",
+    "/content/test_forms_boilerplate/dam/"
   ]
 }
