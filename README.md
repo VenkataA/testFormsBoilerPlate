@@ -53,3 +53,5 @@ This will guide you through creating a new custom component with:
 - Interactive prompts for component name and base type
 - Automatic file generation (JS, CSS, JSON)
 - Automatic integration in form block with mappings
+
+## Test 1234
